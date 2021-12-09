@@ -30,6 +30,8 @@ public:
 
 	void Mod_Emp();
 
+	void Find_Emp();
+
 	int IsExist(int id);
 
 	void ExitSystem();
